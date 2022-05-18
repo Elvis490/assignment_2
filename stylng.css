@@ -1,0 +1,60 @@
+body {
+    background-color: #ccc;
+}
+
+.everything {
+    background-color: #fff;
+    margin: 70px;
+    padding: 70px;
+}
+.container {
+    font-size: 140%;
+    margin-top: 2em;
+    
+    
+}
+.home_address {
+    text-align: left;
+    margin-left: auto;
+    margin-bottom: 3em;
+    width:40%;
+    
+}
+.receiver_address {
+    text-align: left;
+    margin-right: 14em;
+    margin-bottom: 3em;
+    
+}
+.head {
+    font-weight: bold;
+    text-align: center;
+    font-size: 22px;
+}
+.content {
+margin-top: 2em;
+font: 1em sans-serif;
+text-align: justify;
+margin-bottom: 2em;
+}
+
+.closing {
+    text-align: right;
+    margin-left: 14em;
+    margin-bottom: 3em;
+   
+}
+
+
+.underline {
+    background-color: #000;
+    height:1px;
+    width: 20%;
+    margin-top: 4%;
+    margin-left: auto;
+}
+p.salutation {
+    
+    width: 30%;
+    padding: 0 0 0 12%;
+}
